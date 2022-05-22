@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node App.js"
+    "start": "node App.js",
+    "dev": "nodemon App.js"
   },
   "keywords": [],
   "author": "",
@@ -19,6 +20,8 @@
     "xlsx": "^0.18.4"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.16"
   }
 }
+
+ 
